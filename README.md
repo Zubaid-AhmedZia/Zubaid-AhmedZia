@@ -32,8 +32,6 @@
 
 <h3 align="left">Rewards & Certifications: </h3>
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeifjrl3odsas4m6aa6lfimtmnuko2r73zhc3nf5uupbvcurob7s3na.ipfs.nftstorage.link/" />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&locale=en&layout=compact" alt="zubaid-ahmedzia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true&locale=en" alt="zubaid-ahmedzia" /></p>
