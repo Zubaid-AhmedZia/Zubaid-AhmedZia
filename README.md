@@ -32,8 +32,8 @@
 
 <h3 align="left">Rewards & Certifications: </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&locale=en&layout=compact" alt="zubaid-ahmedzia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&locale=en&layout=compact" alt="zubaid ahmed zia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true&locale=en" alt="zubaid-ahmedzia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true&locale=en" alt="zubaid ahmed zia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia&" alt="zubaid-ahmedzia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia&" alt="zubaid ahmed zia" /></p>
