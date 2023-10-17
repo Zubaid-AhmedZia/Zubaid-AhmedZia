@@ -32,7 +32,7 @@
 
 <h3 align="left">Rewards & Certifications: </h3>
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmY24HBZKNjqKpcdkWcKbxwCQqVw3XsqZmkiF7Td5gvm2Y?_gl=1*pqc77y*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NjU2Ni42MC4wLjA." alt="BlockchainEssentialsCertificate" width="200" height="200"/> </a>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/Qma3RXEMfa5kC3NbrUmDPnctLdR7ijzo7q8yYCBdtQ3aJ9?_gl=1*z1u3tn*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NjkxMS4zOC4wLjA." alt="BlockchainEssentialsCertificate" width="200" height="200"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&locale=en&layout=compact" alt="zubaid ahmed zia" /></p>
 
