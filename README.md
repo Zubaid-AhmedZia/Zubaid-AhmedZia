@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SAM Sports Platform ](https://samsports.io/) and we are already done with the ICO and upcoming we have public sale and IDO followed by in-game NFTs and other exciting features.
-
+- 🔭 I’m currently working on [DALXY Platform ](https://dalxy.com/) 
 - 🌱 I’m currently learning **Backend-end Development**
 
 - 💬 Ask me about **Blockchain, nodejs, mongoDB**
