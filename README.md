@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [DALXY Platform ](https://dalxy.com/) 
 - 🌱 I’m currently learning **Backend-end Development**
 
-- 💬 Ask me about **Blockchain, nodejs, mongoDB**
+- 💬 Ask me about **Blockchain**
 
 - 📫 How to reach me **ziazubaidahmed@gmail.com**
 
