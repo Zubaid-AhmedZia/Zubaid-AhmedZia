@@ -8,9 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [GGC ](https://grandgangstacity.com/) 
-- 🌱 I’m currently learning **Backend-end Development**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Blockchain** **Backend-end Development**
 
 - 📫 How to reach me **ziazubaidahmed@gmail.com**
 
