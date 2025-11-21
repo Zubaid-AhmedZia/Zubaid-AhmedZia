@@ -92,9 +92,9 @@
 </p>
 
 <p align="left">
-  👉 Or open directly:  
-  <a href="https://raw.githubusercontent.com/Zubaid-AhmedZia/Zubaid-AhmedZia/main/Zubaid%20Ahmed%20Zia_BackendDev.pdf">
-    View my resume (PDF)
+  👉 Or view on GitHub:  
+  <a href="https://github.com/Zubaid-AhmedZia/Zubaid-AhmedZia/blob/main/Zubaid%20Ahmed%20Zia_BackendDev.pdf">
+    Open resume in browser
   </a>
 </p>
 
