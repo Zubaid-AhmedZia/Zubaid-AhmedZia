@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Zubaid</h1>
 <h3 align="center">A passionate Backend & Blockchain Engineer!</h3>
 
+<!-- Dark/Light mode aware "logo" badge -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Zubaid%20Ahmed%20Zia-Backend%20%26%20Blockchain%20Engineer-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=gray" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Zubaid%20Ahmed%20Zia-Backend%20%26%20Blockchain%20Engineer-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Zubaid Ahmed Zia - Backend & Blockchain Engineer" src="https://img.shields.io/badge/Zubaid%20Ahmed%20Zia-Backend%20%26%20Blockchain%20Engineer-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zubaid-ahmedzia&label=Profile%20views&color=blue&style=flat" alt="profile-views" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia">
-    <img src="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -16,46 +26,63 @@
 ### 🧠 About Me
 
 🔭 Working on: **Grand Gangsta City (PC Game Backend + Blockchain Ecosystem)**  
-💬 Ask me about: **Scalable Backends • Smart Contracts • Tokenomics • Game Architecture**  
+💬 Ask me about: **Scalable Backends · Smart Contracts · Tokenomics · Game Architecture**  
 📫 Email: **ziazubaidahmed@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/7he_ChosenOne" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/zubaid-ahmed-zia-563428192" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="35"/>
-</a>
+  <a href="https://twitter.com/7he_ChosenOne" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="35" alt="Twitter/X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zubaid-ahmed-zia-563428192" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="35" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠 Technical Skills
 
-**Languages:** JavaScript • TypeScript • Solidity • Rust (Anchor)  
-**Backend:** Node.js • Express • REST APIs • OpenAPI • Zod • Jest  
-**Databases:** MongoDB • Redis • Elasticsearch  
-**DevOps & Infra:** Docker • Docker Compose • PM2 • AWS EC2 • Nginx • CI/CD (GitHub Actions)  
-**Monitoring & Security:** Prometheus • JWT • Loggers • Rate Limiting • CORS  
-**Blockchain:** Hardhat • Foundry • Ethers.js • Anchor (Solana) • ERCs & EIPs • Tokenomics • Smart Contract Auditing
+**Languages:** JavaScript · TypeScript · Solidity · Rust (Anchor)  
+**Backend:** Node.js · Express · REST APIs · OpenAPI · Zod · Jest  
+**Databases:** MongoDB · Redis · Elasticsearch  
+**DevOps & Infra:** Docker · Docker Compose · PM2 · AWS EC2 · Nginx · CI/CD (GitHub Actions)  
+**Monitoring & Security:** Prometheus · JWT · Loggers · Rate Limiting · CORS  
+**Blockchain:** Hardhat · Foundry · Ethers.js · Anchor (Solana) · ERCs & EIPs · DeFi · Tokenomics Design · Smart Contract Auditing  
 
 ---
 
-### 🔗 Blockchain Stack
+### 🧩 Blockchain & Backend Stack
+
+<!-- All from devicon for reliability -->
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/>
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://seeklogo.com/images/C/chainlink-link-logo-CDF7095A43-seeklogo.com.png" width="40"/>
-<img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" width="40"/>
-<img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40"/>
-<img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" width="40"/>
-<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" width="40"/>
-<img src="https://walletconnect.com/static/walletconnect-logo-f6c6d204e8d33dfd85ac30aff3a4c23c.svg" width="40"/>
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Solidity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="Rust"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="Jest"/>
+
+  <!-- Datastores -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+
+  <!-- Infra / DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+
+  <!-- Frontend / DX -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
 ---
@@ -63,33 +90,59 @@
 ### 💼 Experience
 
 **🔥 Viral Vind Technologies — Backend & Blockchain Engineer**  
-**July 2025 — Present**
-- Architected TypeScript + Express backend for **Grand Gangsta City**, reducing latency by **35% using Redis caching**.
-- Built **SIWE (EIP-4361) wallet login** with RS256 JWT rotation + device binding to prevent account abuse.
-- Automated zero-downtime Docker + CI/CD deployments to AWS EC2 & Nginx.
-- Added Prometheus metrics, logging, and health probes.
+📅 *July 2025 – Present*
 
-**🎮 Westland Arena (Mobile Game)**
-- Backend for **1K+ concurrent mobile players** with secure gameplay APIs.
-- Built **gasless NFT minting/burning using ERC-4337 (Account Abstraction)**.
-- Launched **GGC token**, smart contracts + tokenomics + MEXC listing (~$4M cap, 10K+ holders).
+- Architected TypeScript + Express backend for **Grand Gangsta City**, reducing latency by **35%** via Redis caching and optimized query pipelines.  
+- Implemented **SIWE (EIP-4361)** wallet authentication with RS256 JWT rotation and device ID binding to reduce account abuse.  
+- Containerized stack with Docker Compose and automated zero-downtime releases to AWS EC2 via GitHub Actions CI/CD.  
+- Added Prometheus metrics, health/readiness probes, and structured logging.  
+- Collaborated closely with game devs to integrate backend APIs.
+
+**🎮 Westland Arena (Zombie Shooter - Mobile Game)**  
+- Architected TypeScript + Express backend supporting **1K+ concurrent mobile players**.  
+- Deployed production backend on AWS EC2 with MongoDB in Docker and Node.js under PM2.  
+- Implemented **gasless NFT minting & burning APIs (ERC-4337 Account Abstraction)** for in-game rewards.  
+- Launched **GGC token (Coingecko)** — built vesting & airdrop contracts, designed tokenomics, and led MEXC listing (~$4M peak cap, 10K+ holders).
+
+---
 
 **🚀 DeBlockX — Founding Software Engineer**  
-**May 2024 — June 2025**
-- Designed modular backend for **DALXY Web3 Analytics**, processing hundreds of on-chain events/daily.
-- Built EVM & Solana smart contracts (vesting, bonding curves).
-- Sole engineer handling CI/CD, monitoring, backend + blockchain.
+📅 *May 2024 – June 2025*
 
-**🏢 Cubix Global Inc. — Blockchain & Backend Engineer (PT)**  
-**Jan 2025 — June 2025**
-- Implemented ERC-712 signing test pipelines for reliability.
-- Led 3 engineers for Solana/EVM integration.
+- Designed modular backend services for **DALXY**, a Web3 analytics platform processing hundreds of on-chain events daily.  
+- Built REST APIs, event listeners, and webhook pipelines for real-time on-chain updates.  
+- Shipped production-grade EVM & Solana smart contracts (bonding curves, vesting, exploit-resistant logic).  
+- Led backend & blockchain development as sole engineer for 6+ months, defining CI/CD, monitoring, and deployment.
+
+---
+
+**🏢 Cubix Global Inc. — Blockchain & Backend Developer (Hybrid / Part-Time)**  
+📅 *Jan 2025 – June 2025*
+
+- Wrote TypeScript-based Node scripts to test and validate backend implementations for **ERC-712 signing flow**.  
+- Developed automated Solana tests to validate smart contract behavior and transaction consistency.  
+- Led a team of 3 engineers integrating Solana programs and EVM contracts for cross-chain backend services.
 
 **👨‍💻 Cubix Global Inc. — Assistant Software Engineer**  
-**April 2022 — May 2024**
-- Built secure smart contracts + REST APIs.
-- Reduced production bugs via automated tests (Mocha/Chai).
-- Improved query speed **30% using Elasticsearch + indexing**.
+📅 *April 2022 – May 2024*
+
+- Developed and audited EVM smart contracts with security-focused coding practices.  
+- Delivered secure REST APIs with JWT auth and validation middleware.  
+- Reduced production bugs via Mocha/Chai test automation.  
+- Improved query performance by **30%** via MongoDB indexing & Elasticsearch integration.  
+- Managed services with PM2 for stability under high traffic.
+
+---
+
+### 🎮 Grand Gangsta City – Gameplay Preview
+
+<!-- Replace the GIF URL below with your actual gameplay GIF link -->
+<p align="center">
+  <img src="https://your-cdn-or-repo-url/ggc-gameplay.gif" alt="Grand Gangsta City Gameplay Preview" width="600"/>
+</p>
+
+> 💡 Tip: host the GIF in this repo (e.g. `/assets/ggc-gameplay.gif`) and change the URL to  
+> `https://raw.githubusercontent.com/zubaid-ahmedzia/zubaid-ahmedzia/main/assets/ggc-gameplay.gif`
 
 ---
 
@@ -104,27 +157,61 @@
 | Buy Router Switch | E-commerce backend | https://buyrouterswitch.com/ |
 | HPL Games | Web/mobile gaming company | https://www.hplgames.com/ |
 | DALXY | Blockchain analytics platform | https://dalxy.com/ |
-| Puffer Squad | NFT Collection | https://opensea.io/collection/puffersquad |
-| SamsSports | Sports Ecosystem | https://samsports.io/ |
+| Puffer Squad | NFT collection | https://opensea.io/collection/puffersquad |
+| SamsSports | Sports ecosystem | https://samsports.io/ |
+
+---
+
+### 📌 Pinned Repositories (Cards)
+
+<!--
+  Replace REPO_NAME_* with your actual repo names, e.g.:
+  - grand-gangsta-city-backend
+  - dalxy-backend
+  - westland-arena-backend
+-->
+<p align="center">
+  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_GGC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_GGC&theme=tokyonight" alt="GGC Repo"/>
+  </a>
+  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_DALXY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_DALXY&theme=tokyonight" alt="DALXY Repo"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_WESTLAND">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_WESTLAND&theme=tokyonight" alt="Westland Arena Repo"/>
+  </a>
+  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_UTILS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_UTILS&theme=tokyonight" alt="Utilities / Boilerplate Repo"/>
+  </a>
+</p>
 
 ---
 
 ### 🎓 Education
-**Bachelor of Computer Science — University of Karachi (2022)**
+**Bachelor of Computer Science — University of Karachi (2022)**  
 
 ---
 
 ### 🏆 Certifications (Links)
 
-| Certification | Issuer | Link |
-|--------------|--------|------|
-| FinTech: Foundations & Applications | University of Pennsylvania | https://coursera.org/verify/s8slr9qkdqkw |
-| Blockchain Essentials | IBM Cognitive Class | https://coursera.org/verify/H7R9YAZMMSEE |
+| Certification | Issuer | Links |
+|--------------|--------|-------|
+| FinTech: Foundations & Applications of Financial Technology | University of Pennsylvania | https://coursera.org/verify/s8slr9qkdqkw |
+| Blockchain Essentials | IBM Cognitive Class / Developer Skills Network | https://coursera.org/verify/H7R9YAZMMSEE |
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&layout=compact" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&layout=compact" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia" />
+</p>
