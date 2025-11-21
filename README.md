@@ -80,50 +80,16 @@
 
 ---
 
-### 💼 Experience
+### 📄 Resume
 
-**🔥 Viral Vind Technologies — Backend & Blockchain Engineer**  
-📅 *July 2025 – Present*
-
-- Architected TypeScript + Express backend for **Grand Gangsta City**, reducing latency by **35%** via Redis caching and optimized query pipelines.  
-- Implemented **SIWE (EIP-4361)** wallet authentication with RS256 JWT rotation and device ID binding to reduce account abuse.  
-- Containerized stack with Docker Compose and automated zero-downtime releases to AWS EC2 via GitHub Actions CI/CD.  
-- Added Prometheus metrics, health/readiness probes, and structured logging.  
-- Collaborated closely with game devs to integrate backend APIs.
-
-**🎮 Westland Arena (Zombie Shooter - Mobile Game)**  
-- Architected TypeScript + Express backend supporting **1K+ concurrent mobile players**.  
-- Deployed production backend on AWS EC2 with MongoDB in Docker and Node.js under PM2.  
-- Implemented **gasless NFT minting & burning APIs (ERC-4337 Account Abstraction)** for in-game rewards.  
-- Launched **GGC token (Coingecko)** — built vesting & airdrop contracts, designed tokenomics, and led MEXC listing (~$4M peak cap, 10K+ holders).
-
----
-
-**🚀 DeBlockX — Founding Software Engineer**  
-📅 *May 2024 – June 2025*
-
-- Designed modular backend services for **DALXY**, a Web3 analytics platform processing hundreds of on-chain events daily.  
-- Built REST APIs, event listeners, and webhook pipelines for real-time on-chain updates.  
-- Shipped production-grade EVM & Solana smart contracts (bonding curves, vesting, exploit-resistant logic).  
-- Led backend & blockchain development as sole engineer for 6+ months, defining CI/CD, monitoring, and deployment.
-
----
-
-**🏢 Cubix Global Inc. — Blockchain & Backend Developer (Hybrid / Part-Time)**  
-📅 *Jan 2025 – June 2025*
-
-- Wrote TypeScript-based Node scripts to test and validate backend implementations for **ERC-712 signing flow**.  
-- Developed automated Solana tests to validate smart contract behavior and transaction consistency.  
-- Led a team of 3 engineers integrating Solana programs and EVM contracts for cross-chain backend services.
-
-**👨‍💻 Cubix Global Inc. — Assistant Software Engineer**  
-📅 *April 2022 – May 2024*
-
-- Developed and audited EVM smart contracts with security-focused coding practices.  
-- Delivered secure REST APIs with JWT auth and validation middleware.  
-- Reduced production bugs via Mocha/Chai test automation.  
-- Improved query performance by **30%** via MongoDB indexing & Elasticsearch integration.  
-- Managed services with PM2 for stability under high traffic.
+<p align="left">
+  <a href="https://github.com/Zubaid-AhmedZia/Zubaid-AhmedZia/blob/main/Zubaid%20Ahmed%20Zia_BackendDev.pdf" download>
+    <img 
+      src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
+      alt="Download Resume"
+    />
+  </a>
+</p>
 
 ---
 
