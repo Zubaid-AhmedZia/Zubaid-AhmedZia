@@ -14,13 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=zubaid-ahmedzia&label=Profile%20views&color=blue&style=flat" alt="profile-views" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -134,18 +127,6 @@
 
 ---
 
-### 🎮 Grand Gangsta City – Gameplay Preview
-
-<!-- Replace the GIF URL below with your actual gameplay GIF link -->
-<p align="center">
-  <img src="https://your-cdn-or-repo-url/ggc-gameplay.gif" alt="Grand Gangsta City Gameplay Preview" width="600"/>
-</p>
-
-> 💡 Tip: host the GIF in this repo (e.g. `/assets/ggc-gameplay.gif`) and change the URL to  
-> `https://raw.githubusercontent.com/zubaid-ahmedzia/zubaid-ahmedzia/main/assets/ggc-gameplay.gif`
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Link |
@@ -159,34 +140,6 @@
 | DALXY | Blockchain analytics platform | https://dalxy.com/ |
 | Puffer Squad | NFT collection | https://opensea.io/collection/puffersquad |
 | SamsSports | Sports ecosystem | https://samsports.io/ |
-
----
-
-### 📌 Pinned Repositories (Cards)
-
-<!--
-  Replace REPO_NAME_* with your actual repo names, e.g.:
-  - grand-gangsta-city-backend
-  - dalxy-backend
-  - westland-arena-backend
--->
-<p align="center">
-  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_GGC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_GGC&theme=tokyonight" alt="GGC Repo"/>
-  </a>
-  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_DALXY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_DALXY&theme=tokyonight" alt="DALXY Repo"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_WESTLAND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_WESTLAND&theme=tokyonight" alt="Westland Arena Repo"/>
-  </a>
-  <a href="https://github.com/zubaid-ahmedzia/REPO_NAME_UTILS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zubaid-ahmedzia&repo=REPO_NAME_UTILS&theme=tokyonight" alt="Utilities / Boilerplate Repo"/>
-  </a>
-</p>
 
 ---
 
