@@ -1,39 +1,84 @@
 <h1 align="center">Hi 👋, I'm Zubaid</h1>
 <h3 align="center">A passionate Blockchain Engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubaid-ahmedzia&label=Profile%20views&color=0e75b6&style=flat" alt="zubaid-ahmedzia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia" alt="zubaid-ahmedzia" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [GGC ](https://grandgangstacity.com/) 
-
-- 💬 Ask me about **Blockchain** **Backend-end Development**
-
-- 📫 How to reach me **ziazubaidahmed@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/7he_ChosenOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubaidahmedzia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zubaid-ahmed-zia-563428192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zubaid-ahmed-zia-563428192" height="30" width="40" /></a>
-</p>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zubaid-ahmedzia&label=Profile%20views&color=blue&style=flat" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia">
+    <img src="https://github-profile-trophy.vercel.app/?username=zubaid-ahmedzia&theme=algolia&margin-w=10" alt="trophies"/>
+  </a>
+</p>
 
-<h3 align="left">Blockchain Stack:</h3>
- <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" alt="solidity" width="40" height="40"/> </a> <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> </a> <a href="https://trufflesuit.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a> <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chainlink-link-logo-CDF7095A43-seeklogo.com.png" alt="chainlink" width="40" height="40"/> </a> <a href="https://polygon.technology" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="polygon" width="40" height="40"/> </a> <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" alt="ethereum" width="40" height="40"/> </a>
-<a href="https://metamask.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" alt="metamask" width="40" height="40"/> </a> <a href="https://opensea.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/opensea-logo-7DE9D85D62-seeklogo.com.png" alt="opensea" width="40" height="40"/> </a> <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40"/> </a> <a href="https://www.binance.com/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-97F9D55608-seeklogo.com.png" alt="binance" width="40" height="40"/> </a> <a href="https://www.rainbowkit.com/" target="_blank" rel="noreferrer"> <img src="https://www.rainbowkit.com/rainbow.svg" alt="rainbowkit" width="40" height="40"/> </a> <a href="https://www.wagmi.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg" alt="wagmi" width="40" height="40"/> </a> <a href="https://walletconnect.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" alt="walletConnect" width="40" height="40"/> </a> <a href="https://uniswap.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" alt="uniswap" width="40" height="40"/> </a> <a href="https://sushi.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/72222929?s=200&v=4" alt="sushiswap" width="40" height="40"/> </a> <a href="https://pancakeswap.finance" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/71247426?s=200&v=4" alt="pancakeswap" width="40" height="40"/> </a>    </p>
+---
 
-<h3 align="left">Rewards & Certifications: </h3>
+🚀 **Currently Working On:**  
+🔗 [Grand Gangsta City (GGC)](https://grandgangstacity.com/)
 
-<p align="left"> <a href="https://coursera.org/verify/H7R9YAZMMSEE" target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/Qma3RXEMfa5kC3NbrUmDPnctLdR7ijzo7q8yYCBdtQ3aJ9?_gl=1*z1u3tn*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NjkxMS4zOC4wLjA." alt="BlockchainEssentialsCertificate" width="200" height="170"/> </a><a href="https://coursera.org/verify/S8SLR9QKDQKW" target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmdG4aq6Wuii8w69efsouma3obW5qwtxuTabZRwZQW18MF?_gl=1*12yszlb*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NzExMC42MC4wLjA." alt="SmartContractCertificate" width="200" height="170"/> </a><a href="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmdZu9W6FwiRSye3e4oGJPpnn2KzWutNAYyWpvifmMvc5G?_gl=1*1awo1u3*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NzIzOC42MC4wLjA." target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmdZu9W6FwiRSye3e4oGJPpnn2KzWutNAYyWpvifmMvc5G?_gl=1*1awo1u3*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NzIzOC42MC4wLjA." alt="SolanaCertificate" width="170" height="200"/> </a><a href="https://coursera.org/verify/specialization/4VADPMRND4KV" target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmVGdsmUdvrVhLAAVt1VzAu6wAs38AXMg3ZQTb3U1c6QeU?_gl=1*by3agm*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0NjAwNy4xLjEuMTY5NzU0NzMzNi42MC4wLjA." alt="FintechSpecializationCertificate" width="200" height="170"/> </a><a href="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmatLiN7USHnrchJZRByRaZVBz7TLtRYkjDrWbo3jnQjsx?_gl=1*lndfab*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0OTkyMy4yLjEuMTY5NzU1MDA1NS40MC4wLjA." target="_blank" rel="noreferrer"> <img src="https://brown-capitalist-mastodon-625.mypinata.cloud/ipfs/QmatLiN7USHnrchJZRByRaZVBz7TLtRYkjDrWbo3jnQjsx?_gl=1*lndfab*_ga*MTQ5ODE2MzE4Ny4xNjk3NTQ2MDA3*_ga_5RMPXG14TE*MTY5NzU0OTkyMy4yLjEuMTY5NzU1MDA1NS40MC4wLjA." alt="Blockchain Essentials" width="200" height="170"/> </a>
+💬 **Ask me about:** Blockchain, Smart Contracts, Backend Development  
+📫 **Reach me at:** `ziazubaidahmed@gmail.com`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&locale=en&layout=compact" alt="zubaid ahmed zia" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true&locale=en" alt="zubaid ahmed zia" /></p>
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://twitter.com/7he_ChosenOne" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="35"/></a>
+<a href="https://www.linkedin.com/in/zubaid-ahmed-zia-563428192" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="35"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia&" alt="zubaid ahmed zia" /></p>
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+### 🔗 Blockchain Stack
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/>
+<img src="https://hardhat.org/assets/img/hardhat-logo.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/truffle.svg" width="40"/>
+<img src="https://seeklogo.com/images/C/chainlink-link-logo-CDF7095A43-seeklogo.com.png" width="40"/>
+<img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" width="40"/>
+<img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" width="40"/>
+<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" width="40"/>
+<img src="https://cryptologos.cc/logos/binance-usd-busd-logo.png" width="40"/>
+<img src="https://seeklogo.com/images/O/opensea-logo-7DE9D85D62-seeklogo.com.png" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" width="40"/>
+<img src="https://walletconnect.com/static/walletconnect-logo-f6c6d204e8d33dfd85ac30aff3a4c23c.svg" width="40"/>
+<img src="https://www.rainbowkit.com/rainbow.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg" width="40"/>
+</p>
+
+---
+
+### 🎓 Rewards & Certifications
+
+| Certification | Issuer | Preview |
+|--------------|--------|--------|
+| Blockchain Essentials | Coursera | ![cert](https://images.credly.com/size/340x340/images/3f37f1ce-8262-4322-9d45-3bb3e7e56cb9/Blockchain-Essentials.png) |
+| Smart Contract Programming | Coursera | ![cert](https://images.credly.com/size/340x340/images/59fc7ab7-8bac-43e0-a224-bd04983aadd1/Smart_Contracts.png) |
+| Solana Web3 Developer | Solana | ![cert](https://cryptologos.cc/logos/solana-sol-logo.png) |
+| FinTech Specialization | Coursera | ![cert](https://images.credly.com/images/6f07ab7a-42fa-4c73-a750-52d2ea02a16d/FinTech_specialization.png) |
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true&locale=en" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia" /></p>
