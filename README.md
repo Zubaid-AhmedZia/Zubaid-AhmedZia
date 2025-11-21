@@ -69,7 +69,7 @@
   <!-- Infra / DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/>
-  <img src="https://s3-alpha.figma.com/hub/file/2815777610/f48aadd7-3fa2-4218-bebf-597021659f2b-cover.png" width="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 
   <!-- Frontend / DX -->
