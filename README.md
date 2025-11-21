@@ -83,13 +83,21 @@
 ### 📄 Resume
 
 <p align="left">
-  <a href="https://github.com/Zubaid-AhmedZia/Zubaid-AhmedZia/blob/main/Zubaid%20Ahmed%20Zia_BackendDev.pdf" download>
+  <a href="https://raw.githubusercontent.com/Zubaid-AhmedZia/Zubaid-AhmedZia/main/Zubaid%20Ahmed%20Zia_BackendDev.pdf">
     <img 
       src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
       alt="Download Resume"
     />
   </a>
 </p>
+
+<p align="left">
+  👉 Or open directly:  
+  <a href="https://raw.githubusercontent.com/Zubaid-AhmedZia/Zubaid-AhmedZia/main/Zubaid%20Ahmed%20Zia_BackendDev.pdf">
+    View my resume (PDF)
+  </a>
+</p>
+
 
 ---
 
