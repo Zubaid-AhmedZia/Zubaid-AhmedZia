@@ -19,7 +19,8 @@
 ### 🧠 About Me
 
 🔭 Working on: **Grand Gangsta City (PC Game Backend + Blockchain Ecosystem)**  
-💬 Ask me about: **Scalable Backends · Smart Contracts · Tokenomics · Game Architecture**  
+📋 Working on: **Edelrok Timepad (Task management sysytem)**
+💬 Ask me about: **Scalable Backends · Smart Contracts · Tokenomics · Architecture**  
 📫 Email: **ziazubaidahmed@gmail.com**
 
 ---
@@ -40,7 +41,7 @@
 
 **Languages:** JavaScript · TypeScript · Solidity · Rust (Anchor)  
 **Backend:** Node.js · Express · REST APIs · OpenAPI · Zod · Jest  
-**Databases:** MongoDB · Redis · Elasticsearch  
+**Databases:** MongoDB · Redis · Elasticsearch · PostgreSQL
 **DevOps & Infra:** Docker · Docker Compose · PM2 · AWS EC2 · Nginx · CI/CD (GitHub Actions)  
 **Monitoring & Security:** Prometheus · JWT · Loggers · Rate Limiting · CORS  
 **Blockchain:** Hardhat · Foundry · Ethers.js · Anchor (Solana) · ERCs & EIPs · DeFi · Tokenomics Design · Smart Contract Auditing  
@@ -131,14 +132,4 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubaid-ahmedzia&show_icons=true&layout=compact" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zubaid-ahmedzia&show_icons=true" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubaid-ahmedzia" />
-</p>
