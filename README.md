@@ -17,10 +17,11 @@
 ---
 
 ### 🧠 About Me
-
-🔭 Working on: **Grand Gangsta City (PC Game Backend + Blockchain Ecosystem)**  
+ 
 📋 Working on: **Edelrok Timepad (Task management sysytem)**
+
 💬 Ask me about: **Scalable Backends · Smart Contracts · Tokenomics · Architecture**  
+
 📫 Email: **ziazubaidahmed@gmail.com**
 
 ---
